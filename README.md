@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dhall-afdhal/Membuat-Kartu-Hari-menggunakan-HTML-CSS/main/image.png" width="600">
+</div>
+
 # Kartu Hari Kasih Sayang Interaktif
 
 Proyek ini mengubah kartu Valentine statis menjadi pengalaman dinamis berbasis JavaScript. Seluruh struktur HTML dan gaya visual kini dirender melalui `script.js`, sehingga mudah untuk melakukan kustomisasi pesan, warna, atau animasi hanya dari satu titik sumber.
